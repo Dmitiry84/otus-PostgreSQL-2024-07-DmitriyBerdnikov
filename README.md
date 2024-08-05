@@ -1,0 +1,1 @@
+# otus-PostgreSQL-2024-07-DmitriyBerdnikov
