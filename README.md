@@ -1,1 +1,2 @@
-# otus-PostgreSQL-2024-07-DmitriyBerdnikov
+# _Курс: PostgreSQL для администраторов баз данных и разработчиков_
+## номер группы: otus-PostgreSQL-2024-07
